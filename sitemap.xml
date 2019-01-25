@@ -1,30 +1,45 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--Created using XmlSitemapGenerator.org - Free HTML, RSS and XML sitemap generator-->
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-  <url>
-    <loc>https://gyuyeongkim.github.io/</loc>
-    <lastmod>2018-11-14</lastmod>
-  </url>
-  <url>
-    <loc>https://gyuyeongkim.github.io/papers/nof13.pdf</loc>
-    <lastmod>2018-11-14</lastmod>
-  </url>
-  <url>
-    <loc>https://gyuyeongkim.github.io/papers/racs12_corrected.pdf</loc>
-    <lastmod>2018-11-14</lastmod>
-  </url>
-  <url>
-    <loc>https://gyuyeongkim.github.io/papers/tfs_published.pdf</loc>
-    <lastmod>2018-11-14</lastmod>
-  </url>
-  <url>
-    <loc>https://gyuyeongkim.github.io/papers/icce14.pdf</loc>
-    <lastmod>2018-11-14</lastmod>
-  </url>
-  <url>
-    <loc>https://gyuyeongkim.github.io/CV.pdf</loc>
-    <lastmod>2018-11-14</lastmod>
-  </url>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	  xmlns:xhtml="http://www.w3.org/1999/xhtml"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">	  	  
+<!-- www.check-domains.com sitemap generator -->
+
+<url>
+   <loc>https://gyuyeongkim.github.io/</loc>
+   <lastmod>2018-11-14T07:53:35+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>1.0000</priority>
+</url>
+<url>
+   <loc>https://gyuyeongkim.github.io/CV.pdf</loc>
+   <lastmod>2018-11-14T07:51:45+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.8000</priority>
+</url>
+<url>
+   <loc>https://gyuyeongkim.github.io/papers/tfs_published.pdf</loc>
+   <lastmod>2018-11-14T07:51:45+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.8000</priority>
+</url>
+<url>
+   <loc>https://gyuyeongkim.github.io/papers/icce14.pdf</loc>
+   <lastmod>2018-11-14T07:51:45+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.8000</priority>
+</url>
+<url>
+   <loc>https://gyuyeongkim.github.io/papers/nof13.pdf</loc>
+   <lastmod>2018-11-14T07:51:45+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.8000</priority>
+</url>
+<url>
+   <loc>https://gyuyeongkim.github.io/papers/racs12_corrected.pdf</loc>
+   <lastmod>2018-11-14T07:51:45+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.8000</priority>
+</url>
 </urlset>
-<!--<guid value="06d07a0d-8241-4535-9a93-76dbd0db0606" />-->
-<!--Created using XmlSitemapGenerator.org - Free HTML, RSS and XML sitemap generator-->
